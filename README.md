@@ -2,7 +2,6 @@
 In this hotel management python project i try to minimize the struggle of hotel staff to keep a record of all guests, rooms, or meeting hall availability, different charge for exclusive room types, managing miscellaneous prices of guest/customer, all bills settled or not. I provide a safe environment where I can keep all details, without worrying about any data leak problem, as there is an authentication check to use this application, which restricts unauthorized access. In almost every hotel, a copy of guest identification proof is kept for safety purpose, so here I also provide this facility for all guests and if guest belongs to foreign lands, then their nationality is additionally required.
 
 # Types of users:-
-
 Admin User
 Employee User
 In this project, the admin can manage the whole site according to his/her requirements.
